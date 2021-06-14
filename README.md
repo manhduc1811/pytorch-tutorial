@@ -1,3 +1,7 @@
+https://ai.facebook.com/blog/pytorch-builds-the-future-of-ai-and-machine-learning-at-facebook/
+
+Ngoài ra mọi người có thể theo dõi series về Pytorch bằng tiếng việt của mình đang viết ở đây  https://nttuan8.com/category/pytorch/
+
 <p align="center"><img width="40%" src="logo/pytorch_logo_2018.svg" /></p>
 
 --------------------------------------------------------------------------------
